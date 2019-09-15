@@ -1,16 +1,16 @@
 {
-  "name": "cordova-labs-local-webserver",
+  "name": "cordova-plugin-local-webserver",
   "version": "2.3.1",
   "description": "Cordova Local Web Server Plugin",
   "cordova": {
-    "id": "cordova-labs-local-webserver",
+    "id": "cordova-plugin-local-webserver",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Collaborne/cordova-plugins.git"
+    "url": "git+https://speige/cordova-plugin-local-webserver.git"
   },
   "keywords": [
     "cordova",
