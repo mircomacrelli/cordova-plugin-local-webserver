@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://speige/cordova-plugin-local-webserver.git"
+    "url": "git+https://github.com/speige/cordova-plugin-local-webserver.git"
   },
   "keywords": [
     "cordova",
@@ -27,9 +27,9 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Collaborne/cordova-plugins/issues"
+    "url": "https://github.com/speige/cordova-plugin-local-webserver/issues"
   },
-  "homepage": "https://github.com/Collaborne/cordova-plugins#readme",
+  "homepage": "https://github.com/speige/cordova-plugin-local-webserver#readme",
   "dependencies": {
     "urijs": "^1.17.1"
   }
